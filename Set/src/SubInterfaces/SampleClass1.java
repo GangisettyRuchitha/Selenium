@@ -9,6 +9,7 @@ public class SampleClass1 {
 		System.out.println("dirty mann");
 		System.out.println("you don't have any manners");
 		System.out.println("la lala lala lallaaa");
+		System.out.println("ruchi papa");
 
 	}
 
