@@ -18,6 +18,7 @@ public class BasicOperations {
 		System.out.println(h.isEmpty());
 		System.out.println(h.size());
 		System.out.println("first message");
+		System.out.println("second message");
 
 	}
 
